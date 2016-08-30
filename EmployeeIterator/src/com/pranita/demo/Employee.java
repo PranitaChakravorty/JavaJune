@@ -18,6 +18,7 @@ public void setEmployeeName(String employeeName) {
 public String getEmployeeType() {
 	return employeeType;
 }
+//New khacchad idiot 
 public void setEmployeeType(String employeeType) {
 	this.employeeType = employeeType;
 }
