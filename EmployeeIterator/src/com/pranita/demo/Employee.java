@@ -18,7 +18,8 @@ public void setEmployeeName(String employeeName) {
 public String getEmployeeType() {
 	return employeeType;
 }
-//New khacchad idiot../../../../..
+//New khacchad idiot New Gawar
+//New khacchad idiot New Gawar
 public void setEmployeeType(String employeeType) {
 	this.employeeType = employeeType;
 }
