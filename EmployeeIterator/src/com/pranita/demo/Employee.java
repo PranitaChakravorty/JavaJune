@@ -1,5 +1,5 @@
 package com.pranita.demo;
-//Comment hiii
+//Comment from pagli ladki
 public class Employee {
 private String employeeName;
 private String employeeType;
@@ -20,10 +20,6 @@ public String getEmployeeType() {
 public void setEmployeeType(String employeeType) {
 	this.employeeType = employeeType;
 }
-
-
-
-
 
 
 }
